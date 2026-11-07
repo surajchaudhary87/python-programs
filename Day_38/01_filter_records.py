@@ -17,3 +17,6 @@ for student in students:
     print(student)
 
 connection.close()
+
+#SELECT * FROM students
+#WHERE marks > 80
